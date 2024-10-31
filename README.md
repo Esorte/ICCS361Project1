@@ -6,4 +6,4 @@ In this repo consist. of 4 main EDA file under EDA folder. We split the data int
 - Files EDA.ipynb are where we answer quetsion 2 & 3.
 - Files EDA (1).ipynb used to answer question 4.
 - Files Apriori uesd to anwser the last quesiton 5.
--** The main files MainEDA are the final files where we conclude everything into a single files.**
+- **The main files MainEDA are the final files where we conclude everything into a single files.**
